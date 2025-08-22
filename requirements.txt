@@ -3,3 +3,6 @@ uvicorn
 pyjwt
 passlib[bcrypt]
 python-multipart
+pandas
+scikit-learn
+joblib
